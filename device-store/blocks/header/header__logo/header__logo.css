@@ -1,0 +1,8 @@
+.logo {
+    width: 120px;        /* Фиксированная ширина */
+    height: 100px;       /* Фиксированная высота */
+    object-fit: cover;   /* Обрезать лишнее */
+    display: flex;
+    align-items: start;
+    justify-content: start;
+}
